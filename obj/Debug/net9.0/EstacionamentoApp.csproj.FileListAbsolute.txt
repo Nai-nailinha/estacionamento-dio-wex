@@ -1,0 +1,14 @@
+C:\Users\enailel\EstacionamentoApp\bin\Debug\net9.0\EstacionamentoApp.exe
+C:\Users\enailel\EstacionamentoApp\bin\Debug\net9.0\EstacionamentoApp.deps.json
+C:\Users\enailel\EstacionamentoApp\bin\Debug\net9.0\EstacionamentoApp.runtimeconfig.json
+C:\Users\enailel\EstacionamentoApp\bin\Debug\net9.0\EstacionamentoApp.dll
+C:\Users\enailel\EstacionamentoApp\bin\Debug\net9.0\EstacionamentoApp.pdb
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\EstacionamentoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\EstacionamentoApp.AssemblyInfoInputs.cache
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\EstacionamentoApp.AssemblyInfo.cs
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\EstacionamentoApp.csproj.CoreCompileInputs.cache
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\EstacionamentoApp.dll
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\refint\EstacionamentoApp.dll
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\EstacionamentoApp.pdb
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\EstacionamentoApp.genruntimeconfig.cache
+C:\Users\enailel\EstacionamentoApp\obj\Debug\net9.0\ref\EstacionamentoApp.dll
